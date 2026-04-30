@@ -8,40 +8,40 @@ Responde con tus propias palabras.
 
 1. ¿Qué es una función en JavaScript?
 
-Respuesta:
+Respuesta: es una agrupación de códigos para una tarea, una vez definida se puede utilizar las veces que se necesite ya que queda en la nube.
 
 2. ¿Para qué sirve organizar instrucciones dentro de una función?
 
-Respuesta:
+Respuesta: se dispone del código ya descrito se mantiene su estructura y no hay que volver a escribir las lneas de trabajo.
 
 3. ¿Qué significa entrada en una función?
 
-Respuesta:
+Respuesta: es toda la información que recibe los comandos del código para trabajar.
 
 4. ¿Qué significa proceso en una función?
 
-Respuesta:
+Respuesta: es la logica que utiliza las líneas de procesamiento para utilizar los datos de entrada para desarrollar su función.
 
 5. ¿Qué significa salida en una función?
 
-Respuesta:
+Respuesta: es el resultado obtenido del procesamiento de la información que se realiza en los pasos anteriores.
 
 6. ¿Qué hace return en una función?
 
-Respuesta:
+Respuesta:es el comando que se utiliza para indicar que una función ya acabo y se puede observar el resultado.
 
 7. ¿Qué hace el comando npm init -y?
 
-Respuesta:
+Respuesta: inicia un proyecto que se va a realizar en JS sin necesidad de realizar más pasos.
 
 8. ¿Qué archivo se crea al ejecutar npm init -y?
 
-Respuesta:
+Respuesta: un archivo package.json con todo lo que conlleva de información.
 
 9. ¿Por qué una función puede ayudar a repetir una decisión sin escribir todo de nuevo?
 
-Respuesta:
+Respuesta: permite que un ciclo entre si y sino no tenga que reescribirse, solo es necesario cambiar los datos que se van a evaluar en el momento del ciclo.
 
 10. ¿Cómo se relaciona una función con un proceso comunitario claro?
 
-Respuesta:
+Respuesta: en el diario vivir convivimos con parametros ya establecidos conllevando a procesos ya establecidos y para acceder a diferentes tipos de ayudas para la comunidad hay que constituir el proceso para que lleguen las ayudas estipuladas.
